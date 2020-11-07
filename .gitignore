@@ -42,7 +42,7 @@ node_modules/
 jspm_packages/
 /node_modules
 /package-lock.json
-config.json
+/config.json
 # TypeScript v1 declaration files
 typings/
 
