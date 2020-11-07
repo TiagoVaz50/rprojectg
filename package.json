@@ -1,0 +1,21 @@
+{
+    "name": "rproject",
+    "version": "1.0.0",
+    "description": "RProjectG",
+    "main": "index.js",
+    "scripts": {
+        "test": "{ \"test\": \"echo \"Error: no test specified\" && exit 1\" }"
+    },
+    "keywords": [
+        "rp "
+    ],
+    "author": "TiagoVaz",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/opus": "^0.3.2",
+        "discord.js": "^12.3.1",
+        "firebase": "^7.24.0",
+        "lavacord": "^1.1.9",
+        "lavalink": "^2.10.2"
+    }
+}
