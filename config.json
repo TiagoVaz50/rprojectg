@@ -1,8 +1,0 @@
-{
-    "token": "NzU0NzM3ODcxMDUwNjM3MzIy.X15Gag.5heHNCMlIem_CvKWwI3BVUmFCLw",
-    "prefix": "rp ",
-    "nodes": [
-        { "id": "default", "host": "localhost", "port": 2333, "password": "youshallnotpass" }
-    ],
-    "owner": "your discord id"
-}
