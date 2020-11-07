@@ -1,5 +1,5 @@
 {
-    "token": "NzU0NzM3ODcxMDUwNjM3MzIy.X15Gag.pW6JVngne7WwHzrP6dzNxEbcx3c",
+    "token": "NzU0NzM3ODcxMDUwNjM3MzIy.X15Gag.R2WRpx3KpkdzGcvy0qO8N9x4n9Y",
     "prefix": "rp ",
     "nodes": [
         { "id": "default", "host": "localhost", "port": 2333, "password": "youshallnotpass" }
